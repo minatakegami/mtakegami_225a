@@ -8,3 +8,5 @@ My work for this class is organized as follows for now:
 - `data` All data used for analysis
 
 - `figures` All figures produced during analysis
+
+adding text in main readme
