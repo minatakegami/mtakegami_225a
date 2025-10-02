@@ -1,4 +1,4 @@
-# mtakegami_225a
+# Mina Takegami
 BMS225A class repo
 
 My work for this class is organized as follows for now:
